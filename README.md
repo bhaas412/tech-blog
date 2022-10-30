@@ -7,8 +7,10 @@ This project is a tech blog site that handles blog posts and comments on other d
 The express-session and connect-session-sequelize packages handle user authentication.
 
 ## Screenshot
-![localhost_3001_login](https://user-images.githubusercontent.com/26229422/198860272-cb4518f2-d4bf-433c-b4d3-af374f1efa13.png)
+![infinite-crag-43250 herokuapp com_login](https://user-images.githubusercontent.com/26229422/198860407-525adbec-47d8-40f0-a0c7-bc7168d523bc.png)
 
 ## Link to Deployed Application
+
+[The Tech Blog](https://infinite-crag-43250.herokuapp.com/login)
 
 Currently in development...
