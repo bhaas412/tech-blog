@@ -7,6 +7,8 @@ This project is a tech blog site that handles blog posts and comments on other d
 The express-session and connect-session-sequelize packages handle user authentication.
 
 ## Screenshot
+![localhost_3001_login](https://user-images.githubusercontent.com/26229422/198860272-cb4518f2-d4bf-433c-b4d3-af374f1efa13.png)
 
 ## Link to Deployed Application
 
+Currently in development...
